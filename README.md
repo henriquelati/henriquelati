@@ -48,12 +48,9 @@ Currently interested in:
 
 ---
 
-## GitHub Stats
+## Activity
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquelati&show_icons=true&count_private=true&theme=transparent"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelati&layout=compact&theme=transparent"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
