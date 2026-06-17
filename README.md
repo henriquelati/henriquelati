@@ -55,10 +55,6 @@ Currently interested in:
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelati&layout=compact&theme=transparent"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelati&theme=transparent"/>
-</p>
-
 ---
 
 ## Let's Connect
