@@ -1,9 +1,68 @@
-## Henrique Lati
+# Hi there, I'm Henrique Lati 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lati-3095b4167/)
+Senior Backend Engineer from Brazil 🇧🇷 passionate about building scalable systems, payment solutions and cloud-native applications.
 
-### About me
-I love working with challenging and creative projects. As a developer, I'm always looking for better practices and knowledge in new technologies. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Lati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lati-3095b4167/)
+[![GitHub followers](https://img.shields.io/github/followers/henriquelati?style=for-the-badge)](https://github.com/henriquelati)
 
-<img src='https://github-readme-stats.vercel.app/api?username=henriquelati&count_private=true&show_icons=true' height="170em">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelati' height="300em">
+---
+
+## About Me
+
+I'm a Senior Backend Engineer with experience designing and developing payment platforms, financial integrations, APIs and cloud-native systems.
+
+Currently interested in:
+
+- 💳 Payment Service Providers (PSP), Pix and financial products
+- ☁️ AWS, containers and distributed architectures
+- 🤖 AI Agents, MCP Servers and LLM integrations
+- 🚀 Software architecture, scalability and developer experience
+- 📚 Continuous learning and knowledge sharing
+
+---
+
+## Tech Stack
+
+#### Languages & Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+
+#### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+
+#### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquelati&show_icons=true&count_private=true&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelati&layout=compact&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelati&theme=transparent"/>
+</p>
+
+---
+
+## Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/henrique-lati-3095b4167/
+
+📧 Feel free to reach out for discussions about backend development, payments, cloud infrastructure or AI.
